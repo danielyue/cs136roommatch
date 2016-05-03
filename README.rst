@@ -2,14 +2,10 @@
 cs136roommatch
 ==============
 
-
-Add a short description here!
-
-
 Description
 ===========
 
-A LONGER DESCRIPTION OF YOUR PROJECT GOES HERE...
+Code for CS 136 Final Project: Roommate Matching, by Daniel Yue, Amna Hashmi, and Peter Hickman. Send inquiries to danielyue@college.harvard.edu. For full description, see project writeup.
 
 
 Note

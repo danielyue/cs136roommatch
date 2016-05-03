@@ -2,3 +2,7 @@
 # numpy
 # scipy>=0.9
 
+pandas
+numpy
+matplotlib
+pulp
